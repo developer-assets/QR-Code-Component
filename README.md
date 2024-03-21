@@ -1,33 +1,22 @@
-# Frontend Mentor - QR code component solution
+# QR Code Component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-- [My Process](#my-process)
- - [Built With](#built-with)
- - [Useful Resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
-
-### Screenshot
+## Screenshot
 
 ![](./build/images/screenshot.png)
 
-## My process
 
-### Built with
+## Built With
 - HTML5
-- [Tailwind CSS](https://tailwindcss.com/)
+- Tailwind CSS
 
-### Useful Resourses
-- [Tailwind Documentation](https://tailwindcss.com/docs/installation)
-- [HTML5 Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+## Useful Resourses
+
+- [MDN HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [TAILWIND CSS DOCS](https://tailwindcss.com/docs/installation)
 
 ## Author
-- Patrick Obama
 
-## Acknowledgments
-- To be added
+- Website:- [Patrick Obama](https://developer-assets.github.io/)
+- Twitter:- [Cybicl](https://www.twitter.com/cybicl)
+- Email:- [Patrick Obama](mailto:https://999patrickobama@gmail.com)
+- LinkedIn:- [Patrick Obama](https://www.linkedin.com/in/patrick-obama-8269152bb/)

@@ -20,5 +20,5 @@
 
 - Website:- [Patrick Obama](https://patrick-portfolio-d16l.onrender.com/)
 - Twitter:- [Cybicl](https://www.twitter.com/cybicl)
-- Email:- [Patrick Obama](mailto:h999patrickobama@gmail.com)
+- Email:- [Patrick Obama](mailto:999patrickobama@gmail.com)
 - LinkedIn:- [Patrick Obama](https://www.linkedin.com/in/patrick-obama-8269152bb/)
